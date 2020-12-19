@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad01f24f-5974-43f5-8b22-89a4970bcfb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/Pages.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/pages/about.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/pages/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AjaxTasks/file_upoad/.idea/task.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AjaxTasks/udemycourse/.idea/udemycourse.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Angular/App/src/app/video.component.ts" beforeDir="false" />
@@ -125,6 +118,9 @@
       <change beforePath="$PROJECT_DIR$/../dash_laravel8/resources/views/admin/services/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dash_laravel8/resources/views/admin/services/form.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dash_laravel8/resources/views/admin/services/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dash_laravel8/resources/views/admin/services/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dash_laravel8/routes/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dash_laravel8/routes/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wasel/app/Http/Traits/SendEmail.php" beforeDir="false" afterPath="$PROJECT_DIR$/../wasel/app/Http/Traits/SendEmail.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wasel/resources/views/customer/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../wasel/resources/views/customer/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wasel/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../wasel/resources/views/layouts/app.blade.php" afterDir="false" />
@@ -144,7 +140,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lsBw1s5LDszqHSJSBU7DUDt1Yf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -167,7 +163,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608376152616</updated>
-      <workItem from="1608376153851" duration="14243000" />
+      <workItem from="1608376153851" duration="15093000" />
     </task>
     <servers />
   </component>
